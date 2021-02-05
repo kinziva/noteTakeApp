@@ -89,28 +89,5 @@ Contact with me with any questions : [GitHub](https://github.com/kinziva)<br />
 
 ## Urls
 * Repository [Repository URL ](https://github.com/kinziva/noteTakeApp)
-* Application [Application URL ](https://github.com/kinziva/teamProfileGenerator)
-
-### Deployment: 36%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-
-
-
-
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* Application [Application URL ]()
 
